@@ -1,3 +1,10 @@
+Flint Sessions (was used for example code, making comments, github help, and project design):
+
+https://app.flintk12.com/activity/pygame-debug-le-1fe068/session/4178c0e4-dbaa-4926-9188-3953e33bfa22
+https://app.flintk12.com/activity/pygame-debug-le-1fe068/session/b55e9445-98d8-4071-912a-c247380bb987
+https://app.flintk12.com/activity/pygame-debug-le-1fe068/session/702c4f45-fdf6-4e17-9e10-426ac8dbf8db
+
+
 Movement:
 
 Up arrow key: Up (also double jump if twice)
