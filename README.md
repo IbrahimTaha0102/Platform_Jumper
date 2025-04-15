@@ -1,4 +1,4 @@
-Flint Sessions (was used for example code, making comments, github help, and project design):
+Flint Sessions (was used for examples of code, making comments, github help, and project design):
 
 https://app.flintk12.com/activity/pygame-debug-le-1fe068/session/4178c0e4-dbaa-4926-9188-3953e33bfa22
 https://app.flintk12.com/activity/pygame-debug-le-1fe068/session/b55e9445-98d8-4071-912a-c247380bb987
